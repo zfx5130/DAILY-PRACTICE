@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8435E5591F39859100424E5E"
-               BuildableName = "TouchIDDemo.app"
-               BlueprintName = "TouchIDDemo"
-               ReferencedContainer = "container:TouchIDDemo.xcodeproj">
+               BlueprintIdentifier = "8435E5C91F3AD8C900424E5E"
+               BuildableName = "TouchId&#x4e0e;&#x624b;&#x52bf;&#x5bc6;&#x7801;.app"
+               BlueprintName = "TouchId&#x4e0e;&#x624b;&#x52bf;&#x5bc6;&#x7801;"
+               ReferencedContainer = "container:TouchId&#x4e0e;&#x624b;&#x52bf;&#x5bc6;&#x7801;.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8435E5721F39859100424E5E"
-               BuildableName = "TouchIDDemoTests.xctest"
-               BlueprintName = "TouchIDDemoTests"
-               ReferencedContainer = "container:TouchIDDemo.xcodeproj">
+               BlueprintIdentifier = "8435E5E21F3AD8C900424E5E"
+               BuildableName = "TouchId&#x4e0e;&#x624b;&#x52bf;&#x5bc6;&#x7801;Tests.xctest"
+               BlueprintName = "TouchId&#x4e0e;&#x624b;&#x52bf;&#x5bc6;&#x7801;Tests"
+               ReferencedContainer = "container:TouchId&#x4e0e;&#x624b;&#x52bf;&#x5bc6;&#x7801;.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8435E57D1F39859100424E5E"
-               BuildableName = "TouchIDDemoUITests.xctest"
-               BlueprintName = "TouchIDDemoUITests"
-               ReferencedContainer = "container:TouchIDDemo.xcodeproj">
+               BlueprintIdentifier = "8435E5ED1F3AD8C900424E5E"
+               BuildableName = "TouchId&#x4e0e;&#x624b;&#x52bf;&#x5bc6;&#x7801;UITests.xctest"
+               BlueprintName = "TouchId&#x4e0e;&#x624b;&#x52bf;&#x5bc6;&#x7801;UITests"
+               ReferencedContainer = "container:TouchId&#x4e0e;&#x624b;&#x52bf;&#x5bc6;&#x7801;.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8435E5591F39859100424E5E"
-            BuildableName = "TouchIDDemo.app"
-            BlueprintName = "TouchIDDemo"
-            ReferencedContainer = "container:TouchIDDemo.xcodeproj">
+            BlueprintIdentifier = "8435E5C91F3AD8C900424E5E"
+            BuildableName = "TouchId&#x4e0e;&#x624b;&#x52bf;&#x5bc6;&#x7801;.app"
+            BlueprintName = "TouchId&#x4e0e;&#x624b;&#x52bf;&#x5bc6;&#x7801;"
+            ReferencedContainer = "container:TouchId&#x4e0e;&#x624b;&#x52bf;&#x5bc6;&#x7801;.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8435E5591F39859100424E5E"
-            BuildableName = "TouchIDDemo.app"
-            BlueprintName = "TouchIDDemo"
-            ReferencedContainer = "container:TouchIDDemo.xcodeproj">
+            BlueprintIdentifier = "8435E5C91F3AD8C900424E5E"
+            BuildableName = "TouchId&#x4e0e;&#x624b;&#x52bf;&#x5bc6;&#x7801;.app"
+            BlueprintName = "TouchId&#x4e0e;&#x624b;&#x52bf;&#x5bc6;&#x7801;"
+            ReferencedContainer = "container:TouchId&#x4e0e;&#x624b;&#x52bf;&#x5bc6;&#x7801;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8435E5591F39859100424E5E"
-            BuildableName = "TouchIDDemo.app"
-            BlueprintName = "TouchIDDemo"
-            ReferencedContainer = "container:TouchIDDemo.xcodeproj">
+            BlueprintIdentifier = "8435E5C91F3AD8C900424E5E"
+            BuildableName = "TouchId&#x4e0e;&#x624b;&#x52bf;&#x5bc6;&#x7801;.app"
+            BlueprintName = "TouchId&#x4e0e;&#x624b;&#x52bf;&#x5bc6;&#x7801;"
+            ReferencedContainer = "container:TouchId&#x4e0e;&#x624b;&#x52bf;&#x5bc6;&#x7801;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

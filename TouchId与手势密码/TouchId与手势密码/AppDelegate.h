@@ -1,8 +1,8 @@
 //
 //  AppDelegate.h
-//  TouchIDDemo
+//  TouchId与手势密码
 //
-//  Created by admin on 2017/8/8.
+//  Created by admin on 2017/8/9.
 //  Copyright © 2017年 fuxing. All rights reserved.
 //
 

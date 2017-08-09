@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>TouchIDDemo.xcscheme</key>
+		<key>TouchId与手势密码.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>8435E5591F39859100424E5E</key>
+		<key>8435E5C91F3AD8C900424E5E</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>8435E5721F39859100424E5E</key>
+		<key>8435E5E21F3AD8C900424E5E</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>8435E57D1F39859100424E5E</key>
+		<key>8435E5ED1F3AD8C900424E5E</key>
 		<dict>
 			<key>primary</key>
 			<true/>

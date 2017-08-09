@@ -1,18 +1,18 @@
 //
-//  TouchIDDemoTests.m
-//  TouchIDDemoTests
+//  TouchId_____Tests.m
+//  TouchId与手势密码Tests
 //
-//  Created by admin on 2017/8/8.
+//  Created by admin on 2017/8/9.
 //  Copyright © 2017年 fuxing. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface TouchIDDemoTests : XCTestCase
+@interface TouchId_____Tests : XCTestCase
 
 @end
 
-@implementation TouchIDDemoTests
+@implementation TouchId_____Tests
 
 - (void)setUp {
     [super setUp];
