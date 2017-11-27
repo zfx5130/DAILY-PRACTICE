@@ -8,7 +8,17 @@
 
 #import <UIKit/UIKit.h>
 
+extern const NSTimeInterval kAnimationDuration;
+extern NSString *const TestingClassStringName;
+
 @interface ViewController : UIViewController
+
+
+//方法与方法之间空一昂
+//- (void)test1;
+//
+//
+//- (void)test2;
 
 
 @end
