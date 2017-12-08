@@ -30,13 +30,84 @@ class ViewController: UIViewController {
         
         print(name)
         
+    
+        //let emptyArray = [String]()
         
+        let nickName: String? = nil
         
-        let emptyArray = [String]()
-        let empty
+        let fullName: String = "zhang san"
         
+        let nameOne = "hi \(nickName ?? fullName)"
+        
+        print(nameOne)
+        
+        print(greet(persion: "dafsdf", day: "243"))
+        print(green("asdfs", on: "adfa"))
+        print(calculate(scores: [5, 23, 435, 344, 3433]))
+        
+        let calculateString = calculate(scores: [5, 23, 435, 344, 3433])
+        print(calculateString.sum)
+        print(calculateString.1)
+        
+        let match = hasMathes(list: [34,34535,45435,45345], condication: lessThan)
+        print(match)
     }
 
+    
+    func greet(persion: String, day: String) -> String {
+        return "hello \(persion), today is \(day)"
+    }
+    
+    
+    func calculate(scores: [Int]) -> (min: Int, max: Int, sum: Int) {
+        var min = scores[0]
+        var max = scores[0]
+        var sum = 0
+        for score in scores {
+            if score > max {
+                max = score
+            } else if score < min {
+                min = score
+            }
+            sum += score
+        }
+        return (min, max, sum)
+    }
+    
+    func returnFIfteen() -> Int {
+        var y = 10
+        
+        func add() {
+            y += 5
+        }
+        add()
+        return y
+    }
+    
+    
+    func lessThan(number: Int) -> Bool {
+         return number < 10
+    }
+    
+    
+    //参数 数组 ， 方法
+    func hasMathes(list: [Int], condication: (Int) -> Bool) -> Bool {
+        for item in list {
+            if condication(item) {
+                return true
+            }
+        }
+        return false
+    }
+    
+    
+    //_ 无参数
+    func green(_ persion: String,on day: String) -> String {
+        return "hello \(persion), today is \(day)"
+    }
+    
+    
+    
     // MARK: FileManger
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
